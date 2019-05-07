@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "inheritscloud-spfx-library-clientone-client-side-solution",
+    "id": "470f7827-d1bb-48c2-bb98-baeebba8b663",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/inheritscloud-spfx-library-clientone.sppkg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "inheritscloud-spfx-library-client-side-solution",
+    "id": "a0b4cabf-932d-4f2b-a3e3-6dc68e809db6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/inheritscloud-spfx-library.sppkg"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "17e2d1af-9b9a-4173-9a0d-a37b4921ada9",
+  "alias": "InheritsCloudCoreLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
